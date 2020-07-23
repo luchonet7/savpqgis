@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/savpqgis" >
+        <file>icon.png</file>
+        <file>login.png</file>
+    </qresource>
+</RCC>
